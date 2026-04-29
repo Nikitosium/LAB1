@@ -1,4 +1,3 @@
-# LAB1
 # RS-31_Haponko_Nikita_RTOS_LR1
 
 **Номер групи:** РС-31
